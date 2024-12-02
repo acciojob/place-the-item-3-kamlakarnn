@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+.holder{
+display:flex;
+justify-content:space-evenly;
+/* overflow:auto; */
+flex-wrap:wrap
+}
+.item{
+border: 1px solid black
+}
